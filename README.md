@@ -7,7 +7,7 @@
 - Languages and Frameworks:
 > C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events),
  HTML / CSS / Bootstrap 5 / JS,
- ASP.NET / SQL / Razor
+ ASP.NET Core / SQL / Razor
 
 - I have spent time working on a few projects if that interests you
 
