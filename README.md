@@ -5,9 +5,9 @@
   Outside websites I enjoy playing Starcraft in my free time and at the time of writing this I am ranked Diamond 1v1 and 4v4.
   
 - Languages and Frameworks:
-> C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events)
-> HTML / CSS / Bootstrap 5 / JS
-> ASP.NET / SQL / Razor
+> C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events),
+ HTML / CSS / Bootstrap 5 / JS,
+ ASP.NET / SQL / Razor
 
 - I have spent time working on a few projects if that interests you
 
