@@ -2,7 +2,7 @@
 
 - I have a blog where I share my thoughts and some music I came across. It's baespeaks.com. 
   Website maintainance and creation has been quite some fun, to which I plan on further developing my expertise in coding.
-  Outside websites I enjoy playing Starcraft in my free time and at the time of writing this I am ranked Diamond 1v1 and 4v4.
+  Outside websites I enjoy playing Starcraft in my free time and at the time of writing this I am ranked Diamond 1v1 and 4v4
   
 - Languages and Frameworks:
 > C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events),
