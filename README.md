@@ -7,7 +7,7 @@
 - Languages and Frameworks:
 > C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events),
  HTML ~ CSS ~ Bootstrap 5,
- ASP.NET Core ~ SQL ~ Razor
+ ASP.NET Core (including Authentication and Authorization, SQLite, Database Migrations, Route Encryption, Email Confirmation and Password Reset) ~ SQL ~ Razor
 
 - I have spent time working on a few projects if that interests you
 
