@@ -5,9 +5,9 @@
   Outside websites I enjoy playing Starcraft in my free time and at the time of writing this I am ranked Diamond 1v1 and 4v4
   
 - Languages and Frameworks:
-> C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events),
- HTML ~ CSS ~ Bootstrap 5,
- ASP.NET Core (including Authentication and Authorization, SQLite, Database Migrations, Route Encryption, Email Confirmation and Password Reset) ~ SQL ~ Razor ~ React
+- Full Stack Web Developer. Exemplary in C# (including Generics, Asynchronous Programming, LINQ, Serialization, Streams, Reactive Extensions and Events). Proficient in ASP.NET (including Authentication and Authorization, SQLite, Database Migrations, Route Encryption, Email Confirmation and Password Reset). Introductory in C++
+- Comfortable with HTML, CSS, Bootstrap 5, SQL Server Management Studio (T-SQL), and Razor. Familiar with React, Angular and other SQL databases. Furthering expertise with MIT OpenCourseWare, acquired concepts including Electrical Engineering / Circuits on top of Databases & Algorithms (search and sort algorithms, graphs, and paths, and dynamic programming)
+
 
 - I have spent time working on a few projects if that interests you
 
