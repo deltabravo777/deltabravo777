@@ -12,7 +12,7 @@
 
 - I have spent time working on a few projects if that interests you
 - ASP.NET + Angular Course (completed): http://baespeaksworldcities.azurewebsites.net/
-- Personal ASP.NET + Angular Project (ongoing): https://angularseven.azurewebsites.net/
+- Personal ASP.NET + Angular Project (ongoing): https://baespeaks.azurewebsites.net, https://angularseven.azurewebsites.net
 
 <!---
 deltabravo777/deltabravo777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
