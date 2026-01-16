@@ -12,8 +12,8 @@
 - Currently working on web projects with React and ASPNET!
 
 - Please contact me for my resume if you'd like one: danielbae94@gmail.com
-- please check out my respositories below as I have a few projects uploaded there
-- my 'blog' repo contains some articles and playlists I have curated over the years during reflection and in my free time
+- Please check out my respositories below as I have a few projects uploaded there
+- My 'blog' repo contains some articles and playlists I have curated over the years during reflection and in my free time
 
 <!---
 deltabravo777/deltabravo777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
